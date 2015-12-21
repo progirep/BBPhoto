@@ -1,2 +1,5 @@
-# BBPhoto
-Whiteboard semi-automatic photo cleaning program, with optional gphoto integration under Linux
+# Boardsaver
+
+A Semi-automatic cleaning program for whiteboard photos. It is able to interface gphoto2 under Linux.
+
+

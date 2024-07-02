@@ -444,7 +444,7 @@ public class MainFrame extends javax.swing.JFrame {
         jPanel9 = resizingPreviewPanel;
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("BoardSaver v.1.1 - (C) 2009 by Rüdiger Ehlers");
+        setTitle("BBPhoto v.1.1");
         setMinimumSize(new java.awt.Dimension(1000, 650));
         addWindowListener(new java.awt.event.WindowAdapter() {
             public void windowClosed(java.awt.event.WindowEvent evt) {

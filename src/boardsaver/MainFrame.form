@@ -3,7 +3,7 @@
 <Form version="1.6" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
   <Properties>
     <Property name="defaultCloseOperation" type="int" value="3"/>
-    <Property name="title" type="java.lang.String" value="BoardSaver v.1.1 - (C) 2009 by R&#xfc;diger Ehlers"/>
+    <Property name="title" type="java.lang.String" value="BBPhoto v.1.1"/>
     <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
       <Dimension value="[1000, 650]"/>
     </Property>

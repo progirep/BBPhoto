@@ -20,7 +20,7 @@ The program uses a wizard-like user interface with four views overall.
 
 **View 4:** In this fourth and final view, the user can select a particular image output format/resolution combination based on a live preview of the resulting image quality and the sizes of the computed image files. The image sizes and previews are computed in the background while this view is shown.
 
-![Third view](images/viewD.png)
+![Fourth view](images/viewD.jpg)
 
 Note that this program does not have forward *and* backward buttons currently, and the program behavior after adding backwards buttons has been a case study in two scientific papers about the reactive synthesis of program code for graphical user interface.
 
